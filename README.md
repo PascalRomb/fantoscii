@@ -1,9 +1,6 @@
 # Fantoscii
 This is [Fantozzi](https://it.wikipedia.org/wiki/Fantozzi_(film)) movie in ASCII.
-
-It uses [Asci-movie project](https://github.com/gabe565/ascii-movie) to run.
-
-It is inspired by [Asciimation](https://asciimation.co.nz/)
+It uses [Asci-movie project](https://github.com/gabe565/ascii-movie) and it is inspired by [Asciimation](https://asciimation.co.nz/).
 
 
 ## Usage
