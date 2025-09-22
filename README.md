@@ -9,6 +9,11 @@ It uses [Asci-movie project](https://github.com/gabe565/ascii-movie) and it is i
 ```shell
 git clone https://github.com/PascalRomb/fantoscii.git
 ```
+### Unzip frames
+```shell
+unzip movies.zip
+```
+
 ### Starting docker container
 Use `docker-compose.yml` to create a docker container.
 ```shell
