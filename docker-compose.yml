@@ -1,0 +1,14 @@
+services:
+  ascii-movie:
+    image: ghcr.io/gabe565/ascii-movie
+    container_name: ascii-movie
+    tty: true
+    stdin_open: true
+    ports:
+      - "0.0.0.0:8080:1977"
+      - "0.0.0.0:23:23"
+      - "0.0.0.0:22:22"
+    volumes:
+      - ./movies:/movies
+      - ./data:/data 
+    command: serve /movies/fantoscii.txt

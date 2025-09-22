@@ -1,0 +1,6 @@
+*.mp4
+ascii_frames/
+data/
+frames/
+.idea/
+.DS_Store
